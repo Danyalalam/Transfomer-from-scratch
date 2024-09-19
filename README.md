@@ -1,5 +1,8 @@
 # Transformer from Scratch in PyTorch
 
+![transf](https://github.com/user-attachments/assets/151490f2-9ef0-4771-afcb-6e0f1f4ff259)
+
+
 This project implements the Transformer model architecture from the ground up using PyTorch, based on the paper "Attention Is All You Need" by Vaswani et al. The implementation focuses on creating a machine translation model, demonstrating the power and flexibility of the Transformer architecture.
 
 ## Table of Contents
